@@ -38,6 +38,6 @@
   
   Cambridge C1
   
-  -LSE (Lengua de Signos Española): 
+  -LSE (Lengua de Signos Española):
   
-  UNED A2
+  UNED A2  
