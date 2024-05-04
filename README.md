@@ -10,7 +10,7 @@
 
 ***Educación***
 
--UPV/EHU *Grado en Derecho* (2020-2024)
+  -UPV/EHU *Grado en Derecho* (2020-2024)
 
 ***Experiencia jurídica***:
 
