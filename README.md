@@ -22,9 +22,10 @@
     5 años
 
 ***Idiomas que conozco***:
-
   -Castellano: Lengua Materna
+  
   -Inglés: Cambridge C1
+  
   -LSE (Lengua de Signos Española): UNED A2
 
 ***Habilidades***:
