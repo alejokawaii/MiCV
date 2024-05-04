@@ -1,5 +1,5 @@
 remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Un CV to'o guapo bro
-description: Un curriculum vitae para empezar.
+title: Este es mi Curriculum Vitae
+description: Un Curriculum Vitae para empezar.
