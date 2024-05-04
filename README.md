@@ -10,24 +10,29 @@
 
 ***Experiencia jurídica***:
 
-  -Prácticas de Investigación en Grupo de Investigación Consolidado de         Ciencias Criminiales UPV-EHU
-    9 meses
+  -Prácticas de Investigación en Grupo de Investigación Consolidado de Ciencias Criminiales UPV-EHU 
+  
+  9 meses
 
   -Becario en prácticas en el Despacho Valcarcel Abogados
-    3 meses
+    
+  3 meses
 
 ***Voluntariado***:
 
   -Actor en grupo de teatro FIDIAS
-    5 años
+  
+  5 años
 
 ***Idiomas que conozco***:
-  -Castellano: Lengua Materna
+  -Castellano: 
   
-  -Inglés: Cambridge C1
+  Lengua Materna
   
-  -LSE (Lengua de Signos Española): UNED A2
-
-***Habilidades***:
-
-  -
+  -Inglés: 
+  
+  Cambridge C1
+  
+  -LSE (Lengua de Signos Española): 
+  
+  UNED A2
