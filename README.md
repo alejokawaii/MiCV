@@ -24,4 +24,5 @@
   -Inglés: Cambridge C1
   -LSE (Lengua de Signos Española): UNED A2
 
-##Habilidades
+***Habilidades***:
+  -
