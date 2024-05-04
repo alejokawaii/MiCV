@@ -8,6 +8,10 @@
 
 [Email](trabajosdedanielalejandro@gmail.com) / [Linkedin](https://es.linkedin.com/in/d-alejandro-salcedo-p) / [Insta](https://www.instagram.com/alejokawaii/)
 
+***Educación***
+
+-UPV/EHU *Grado en Derecho* (2020-2024)
+
 ***Experiencia jurídica***:
 
   -Prácticas de Investigación en Grupo de Investigación Consolidado de Ciencias Criminiales UPV-EHU 
