@@ -14,7 +14,7 @@
 
 ***Experiencia jurídica***:
 
-  -Prácticas de Investigación en Grupo de Investigación Consolidado de Ciencias Criminiales UPV-EHU 
+  -Prácticas de Investigación en Grupo de Investigación Consolidado de Ciencias Criminales UPV-EHU 
   
   9 meses
 
