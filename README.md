@@ -4,7 +4,7 @@
 
 **Apellidos: Salcedo Pérez**
 
-*Abogado en proceso. También soy actor, le sé un poco al Python y cocino unos buenos macarrones*
+*Abogado en proceso. También soy actor y le sé un poco al Python*
 
 [Email](trabajosdedanielalejandro@gmail.com) / [Linkedin](https://es.linkedin.com/in/d-alejandro-salcedo-p) / [Insta](https://www.instagram.com/alejokawaii/)
 
@@ -16,7 +16,7 @@
 
   -Prácticas de Investigación en Grupo de Investigación Consolidado de Ciencias Criminales UPV-EHU 
   
-  9 meses
+  7 meses
 
   -Becario en prácticas en el Despacho Valcarcel Abogados
     
