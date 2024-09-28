@@ -1,7 +1,6 @@
 ![main](/mifotito.jpeg)
 
-**Nombre: Daniel Alejandro** 
-**Apellidos: Salcedo Pérez**
+**Daniel Alejandro Salcedo Pérez**
 
 Jurista. Estudiando en Máster en Abogacía y Procura en la [UPV/EHU](https://www.ehu.eus/es/web/graduak/grado-derecho-bizkaia) y terminando un [Bootcamp de Data Science con TheBridge](https://bbkbootcamps.thebridge.tech/data-science).
 
