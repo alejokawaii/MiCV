@@ -27,20 +27,14 @@ Proyecto modelo ejemplo (NO TERMINADO): [https://baraprobar.streamlit.app](https
 
 ***Voluntariado***:
 
-  -Actor en grupo de teatro FIDIAS
+  -Actor en grupo de teatro de [FIDIAS](https://fundacionfidias.org)
   
   5 años
 
 ***Idiomas***:
 
-  -Castellano: 
+  -Castellano: Lengua Materna
   
-  Lengua Materna
+  -Inglés: Cambridge C1
   
-  -Inglés: 
-  
-  Cambridge C1
-  
-  -LSE (Lengua de Signos Española):
-  
-  UNED A2  
+  -LSE (Lengua de Signos Española): UNED A2  
