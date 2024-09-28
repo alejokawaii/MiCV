@@ -4,9 +4,12 @@
 
 Jurista. Estudiando en [Máster en Abogacía y Procura en la UPV/EHU](https://www.ehu.eus/es/web/graduak/grado-derecho-bizkaia) y terminando un [Bootcamp de Data Science con TheBridge](https://bbkbootcamps.thebridge.tech/data-science).
 
+
 Email: [trabajosdedanielalejandro@gmail.com](trabajosdedanielalejandro@gmail.com) / [Linkedin](https://es.linkedin.com/in/d-alejandro-salcedo-p) 
 
+
 Proyecto modelo ejemplo (NO TERMINADO): [https://baraprobar.streamlit.app](https://baraprobar.streamlit.app)
+
 
 ***Educación***:
 
