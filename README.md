@@ -7,7 +7,8 @@ Jurista. Estudiando en Máster en Abogacía y Procura en la [UPV/EHU](https://ww
 Email: [trabajosdedanielalejandro@gmail.com](trabajosdedanielalejandro@gmail.com) / [Linkedin](https://es.linkedin.com/in/d-alejandro-salcedo-p) 
 Proyecto modelo ejemplo (NO TERMINADO): [https://baraprobar.streamlit.app](https://baraprobar.streamlit.app)
 
-***Educación***
+***Educación***:
+
   -UPV/EHU *Máster en Abogacía y Procura* (en curso)
 
   -BBK Bootcamps Powered by TheBridge *Data Science* (abril-octubre 2024)
@@ -16,13 +17,9 @@ Proyecto modelo ejemplo (NO TERMINADO): [https://baraprobar.streamlit.app](https
 
 ***Experiencia***:
 
-  -Prácticas de Investigación en Grupo de Investigación Consolidado de Ciencias Criminales UPV-EHU 
-  
-  6 meses
+  -Prácticas de Investigación en Grupo de Investigación Consolidado de Ciencias Criminales UPV-EHU (enero-junio 2024; 6 meses)
 
-  -Prácticas en Despacho Valcarcel Abogados
-    
-  3 meses
+  -Prácticas en Despacho Valcarcel Abogados (octubre-diciembre 2023; 3 meses)
 
 ***Voluntariado***:
 
