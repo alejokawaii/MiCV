@@ -1,24 +1,27 @@
 ![main](/mifotito.jpeg)
 
 **Nombre: Daniel Alejandro** 
-
 **Apellidos: Salcedo Pérez**
 
-*Abogado en proceso. También soy actor y le sé un poco al Python*
+Jurista. Estudiando en Máster en Abogacía y Procura en la [UPV/EHU](https://www.ehu.eus/es/web/graduak/grado-derecho-bizkaia) y terminando un [Bootcamp de Data Science con TheBridge](https://bbkbootcamps.thebridge.tech/data-science).
 
-[Email](trabajosdedanielalejandro@gmail.com) / [Linkedin](https://es.linkedin.com/in/d-alejandro-salcedo-p) / [Insta](https://www.instagram.com/alejokawaii/)
+Email: [trabajosdedanielalejandro@gmail.com](trabajosdedanielalejandro@gmail.com) / [Linkedin](https://es.linkedin.com/in/d-alejandro-salcedo-p) 
+Proyecto modelo ejemplo (NO TERMINADO): [https://baraprobar.streamlit.app](https://baraprobar.streamlit.app)
 
 ***Educación***
+  -UPV/EHU *Máster en Abogacía y Procura* (en curso)
+
+  -BBK Bootcamps Powered by TheBridge *Data Science* (abril-octubre 2024)
 
   -UPV/EHU *Grado en Derecho* (2020-2024)
 
-***Experiencia jurídica***:
+***Experiencia***:
 
   -Prácticas de Investigación en Grupo de Investigación Consolidado de Ciencias Criminales UPV-EHU 
   
-  7 meses
+  6 meses
 
-  -Becario en prácticas en el Despacho Valcarcel Abogados
+  -Prácticas en Despacho Valcarcel Abogados
     
   3 meses
 
@@ -28,7 +31,7 @@
   
   5 años
 
-***Idiomas que conozco***:
+***Idiomas***:
 
   -Castellano: 
   
